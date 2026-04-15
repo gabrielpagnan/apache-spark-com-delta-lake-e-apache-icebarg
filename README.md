@@ -23,6 +23,7 @@ O objetivo deste trabalho e apresentar e analisar como o Apache Spark pode ser u
 
 - Gabriel Matiola Pagnan
 - Pedro Afonso Cardoso Barato
+- Luan Zuchinali
 
 ## Observacao
 
