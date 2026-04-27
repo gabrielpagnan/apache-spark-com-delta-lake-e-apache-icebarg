@@ -31,7 +31,7 @@ O cenário de dados simula uma loja virtual (**TechStore**) com tabelas de clien
 
 A documentação completa do projeto está disponível em:
 
-**[https://bielmpmat99.github.io/spark-lakehouse](https://bielmpmat99.github.io/spark-lakehouse)**
+**[https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg](https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg)**
 
 ---
 
@@ -105,8 +105,8 @@ Baixe e instale em [git-scm.com](https://git-scm.com/downloads).
 ### Passo 1 — Clonar o repositório
 
 ```bash
-git clone https://github.com/bielmpmat99/spark-lakehouse.git
-cd spark-lakehouse
+git clone https://github.com/gabrielpagnan/apache-spark-com-delta-lake-e-apache-icebarg.git
+cd apache-spark-com-delta-lake-e-apache-icebarg
 ```
 
 ### Passo 2 — Instalar dependências com UV

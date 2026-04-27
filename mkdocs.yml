@@ -1,8 +1,8 @@
 site_name: Apache Spark com Delta Lake e Iceberg
 site_description: Documentação do trabalho de Arquitetura de Dados - SATC
-site_url: https://bielmpmat99.github.io/spark-lakehouse
-repo_url: https://github.com/bielmpmat99/spark-lakehouse
-repo_name: bielmpmat99/spark-lakehouse
+site_url: https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg
+repo_url: https://github.com/gabrielpagnan/apache-spark-com-delta-lake-e-apache-icebarg
+repo_name: gabrielpagnan/apache-spark-com-delta-lake-e-apache-icebarg
 edit_uri: edit/main/docs/
 
 theme:
