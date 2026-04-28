@@ -254,7 +254,7 @@ uv run mkdocs gh-deploy
 Este comando irá:
 1. Compilar o site estático
 2. Fazer push para a branch `gh-pages` do repositório
-3. Disponibilizar em `https://bielmpmat99.github.io/spark-lakehouse`
+3. Disponibilizar em `https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg`
 
 > **Pré-requisito:** O repositório deve ser público e o GitHub Pages deve estar habilitado (Settings > Pages > Source: `gh-pages`).
 
