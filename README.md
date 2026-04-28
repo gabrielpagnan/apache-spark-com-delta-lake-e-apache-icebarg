@@ -4,7 +4,7 @@
 > Disciplina: Arquitetura de Dados  
 > Tema: Apache Spark com Delta Lake e Apache Iceberg
 
-## Participantes
+## Participantes 
 
 | Nome | 
 |------|
