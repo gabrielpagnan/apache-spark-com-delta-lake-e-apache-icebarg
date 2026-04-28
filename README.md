@@ -96,9 +96,6 @@ uv --version
 # uv x.x.x
 ```
 
-### 4. Git
-
-Baixe e instale em [git-scm.com](https://git-scm.com/downloads).
 
 ---
 
