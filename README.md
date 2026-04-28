@@ -8,7 +8,9 @@
 
 | Nome | E-mail |
 |------|--------|
-| Gabriel Matiola | bielmpmat99@gmail.com |
+| Gabriel Matiola | 
+| Pedro Afonso Cardoso Barato | 
+| Luan | 
 
 ---
 
