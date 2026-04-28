@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg/</loc>
+         <lastmod>2026-04-28</lastmod>
+    </url>
+    <url>
+         <loc>https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg/delta/</loc>
+         <lastmod>2026-04-28</lastmod>
+    </url>
+    <url>
+         <loc>https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg/iceberg/</loc>
+         <lastmod>2026-04-28</lastmod>
+    </url>
+    <url>
+         <loc>https://gabrielpagnan.github.io/apache-spark-com-delta-lake-e-apache-icebarg/spark/</loc>
+         <lastmod>2026-04-28</lastmod>
+    </url>
+</urlset>
