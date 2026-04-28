@@ -6,8 +6,8 @@
 
 ## Participantes
 
-| Nome | E-mail |
-|------|--------|
+| Nome | 
+|------|
 | Gabriel Matiola | 
 | Pedro Afonso Cardoso Barato | 
 | Luan | 
